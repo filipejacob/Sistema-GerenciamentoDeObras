@@ -120,66 +120,80 @@ Desenvolvedor Full Stack em transição de carreira com foco em soluções reais
 > Fique à vontade para entrar em contato!
 
 
-🇺🇸 //
+## 🇺🇸 //
 
 # 🏗️ Construction Management System
 
-From spreadsheets to automation: this project was developed to fully digitalize and streamline the construction management operations of a company that previously relied on spreadsheets — resulting in rework, data decentralization, lack of managerial visibility, and significant time loss.
+Turning spreadsheets into real technology: this project was developed to fully digitalize and automate the construction management of a company that struggled with rework, decentralized data, lack of managerial visibility, and time loss.
 
 ---
 
 ## 🚧 About the project
 
-This custom-built system was designed to replace manual spreadsheet-based processes in construction management, bringing **control, efficiency, and scalability** to the company's day-to-day operations.
+This system was tailor-made to replace spreadsheets in construction management, bringing **control, efficiency, and scalability** to the company's operations.
 
-The project was developed in collaboration with software engineer **Paulo Vinícius Rodrigues Souza**, with the goal of solving common bottlenecks in the construction industry, such as:
+The project was developed in collaboration with software engineer **Paulo Vinícius Rodrigues Souza**, aiming to solve common bottlenecks in the construction industry, such as:
 
-- Lack of centralized project information  
+- Lack of centralized information  
 - Difficulty tracking project progress  
-- No access to real-time data or strategic reports  
+- No access to real-time reports and indicators  
 
 ---
 
-## ✅ Key deliveries and benefits
+## ✅ Key Deliveries and Benefits
 
 - **Smart centralization of construction data**  
-  → A secure, unified dashboard to monitor everything: stages, sub-stages, resources, and progress.
+  → A secure, unified panel to visualize everything: stages, sub-stages, resources, and progress.
 
 - **Detailed control of each construction stage**  
-  → Costs, materials, labor, stock — all tracked and organized independently.
+  → Costs, materials, labor, and inventory — all separated and traceable.
 
 - **Strategic reporting with real-time insights**  
-  → Live data to support faster and more informed decision-making.
+  → Real-time data for faster and more informed decision-making.
 
-- **Modern, responsive and intuitive interface**  
-  → Designed for both on-site and office use, with a strong focus on user experience.
+- **Modern, responsive, and intuitive interface**  
+  → Designed for both the construction site and the office, with a focus on user experience.
 
 ---
 
-## 📸 System screenshots
+## 📸 System Screenshots
 
-> 💡 To display images, create a folder named `assets/` in the root directory of this repository and place your screenshots there.  
+> 💡 To display images, create a folder called `assets/` in the root of the repository and add your screenshots there.  
 > Below is an example of how to organize them in the README:
 
 ### 📋 Login Screen  
 ![Login](./assets/login.png)
 
-### 🧱 Construction Projects  
-![Projects Overview](./assets/obras1.jpg)  
-![Stage Control](./assets/etapa.jpg)  
+### 🧱 Projects
+
+#### Project Management  
+![Project Management](./assets/obras1.jpg)
+
+#### Construction Stage Control  
+![Construction Stage Control](./assets/etapa.jpg)
+
+#### Stage Entry Form  
 ![Stage Entry Form](./assets/lancetapa.jpg)
 
-### 📊 Financial Module  
-![Project Cash Flow](./assets/caixa.jpg)  
+### 📊 Finance
+
+#### Project Cash Flow  
+![Project Cash Flow](./assets/caixa.jpg)
+
+#### Cash Flow Overview  
 ![Cash Flow Overview](./assets/controlecaixa.jpg)
 
-### 📋 Inventory Management  
-![Order Entry](./assets/pedidos.jpg)  
-![Inventory Material Entry](./assets/materias.jpg)
+### 📋 Inventory
+
+#### Order Entry  
+![Order Entry](./assets/pedidos.jpg)
+
+#### Inventory Material Entry  
+![Inventory Material Entry](./assets/materiais.jpg)
 
 ---
 
-## 🛠️ Technologies used
+## 🛠️ Technologies Used
 
 ### Backend
 - ASP.NET Core MVC + C#
@@ -194,37 +208,37 @@ The project was developed in collaboration with software engineer **Paulo Viníc
 - Docker + Docker Compose
 - Nginx + Certbot (SSL)
 - Cloudflare
-- Private cloud hosting
+- Private Cloud Hosting
 
 ---
 
-## 🚀 Next steps
+## 🚀 Next Steps
 
-- Implementing CI/CD pipelines for automated deployments  
-- Ongoing development of new features and system integrations
-
----
-
-## 📈 Continuous improvement
-
-The system is under active development, focused on keeping the platform **up-to-date, stable, and aligned with industry best practices**.
+- Set up CI/CD pipelines for automated deployments  
+- Continuous improvements with new features and integrations
 
 ---
 
-## 💡 Lessons learned
+## 📈 Continuous Development
 
-> Transforming manual processes with technology goes far beyond digitizing data —  
-> it's about enabling a more efficient, strategic, and scalable operation.
+The system is under active development, with a strong focus on keeping the solution **updated, robust, and aligned with the best industry practices**.
+
+---
+
+## 💡 Key Takeaway
+
+> Transforming manual processes with technology is much more than just digitizing data —  
+> it’s about enabling a more efficient, strategic, and scalable operation.
 
 ---
 
 ## 👨‍💻 Author
 
 **Filipe Jacob**  
-Full Stack Developer in career transition, passionate about building impactful real-world solutions for businesses.  
+Full Stack Developer in career transition, focused on building impactful real-world solutions for companies.  
 [🔗 LinkedIn](https://linkedin.com/in/filipe-jacob)
 
 ---
 
-> **📬 Curious about the technologies or the development process?**  
-> Feel free to reach out — I'm happy to share more details!
+> **📬 Want to know more about how we built the system or used any of the technologies?**  
+> Feel free to reach out!
