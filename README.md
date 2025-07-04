@@ -41,21 +41,30 @@ O projeto foi realizado em parceria com o desenvolvedor **Paulo Vinícius Rodrig
 ![Login](./assets/login.png)
 
 ### 🧱 Obras
-![Controle de Obras](./assets/obras1.jpg)
 
-![Controle de Etapas da Obra](./assets/etapa.jpg)
+#### Controle das Obras
+![Controle das Obras](./assets/obras1.jpg)
 
 #### Controle de Etapas da Obra
+![Controle de Etapas da Obra](./assets/etapa.jpg)
+
+#### Lançamento de Etapas da Obra
 ![Lançamento de Etapas da Obra](./assets/lancetapa.jpg)
 
 ### 📊 Financeiro
+
+#### Caixa das Obras
 ![Caixa das Obras](./assets/caixa.jpg)
 
+#### Fluxo de Caixa das Obras
 ![Fluxo de Caixa das Obras](./assets/controlecaixa.jpg)
 
 ### 📋 Estoque
+
+#### Lançamento de Pedidos
 ![Lançamento de Pedidos](./assets/pedidos.jpg)
 
+#### Lançamento de Materias no Estoque
 ![Lançamento de Materias no Estoque](./assets/materias.jpg)
 
 ---
