@@ -45,7 +45,7 @@ O projeto foi realizado em parceria com o desenvolvedor **Paulo Vinícius Rodrig
 
 ![Controle de Etapas da Obra](./assets/etapa.jpg)
 
-## Controle de Etapas da Obra
+#### Controle de Etapas da Obra
 ![Lançamento de Etapas da Obra](./assets/lancetapa.jpg)
 
 ### 📊 Financeiro
