@@ -55,7 +55,7 @@ O projeto foi realizado em parceria com o desenvolvedor **Paulo Vinícius Rodrig
 ### 📋 Estoque
 ![Lançamento de Pedidos](./assets/pedidos.jpg)
 
-![Lançamento de Materias no Estoque](./assets/materiais.jpg)
+![Lançamento de Materias no Estoque](./assets/materias.jpg)
 
 ---
 
@@ -165,7 +165,7 @@ The project was developed in collaboration with software engineer **Paulo Viníc
 
 ### 📋 Inventory Management  
 ![Order Entry](./assets/pedidos.jpg)  
-![Inventory Material Entry](./assets/materiais.jpg)
+![Inventory Material Entry](./assets/materias.jpg)
 
 ---
 
