@@ -189,7 +189,7 @@ The project was developed in collaboration with software engineer **Paulo Viníc
 ![Order Entry](./assets/pedidos.jpg)
 
 #### Inventory Material Entry  
-![Inventory Material Entry](./assets/materiais.jpg)
+![Inventory Material Entry](./assets/materias.jpg)
 
 ---
 
